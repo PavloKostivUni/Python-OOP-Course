@@ -32,4 +32,4 @@ p = Polygon()
 print(isinstance(s, Shape))
 print(isinstance(sq, Rectangle))
 
-print(isinstance(sq, type(p)))
+print(isinstance(sq, type(p))) 
