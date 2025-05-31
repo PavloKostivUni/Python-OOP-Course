@@ -1,1 +1,9 @@
 err.txt
+
+.idea/
+__pycache__/
+env
+
+.pytest_cache/
+htmlcov/
+.coverage
