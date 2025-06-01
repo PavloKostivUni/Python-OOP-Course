@@ -1,6 +1,7 @@
 err.txt
 
 .idea/
+.vscode
 __pycache__/
 env
 
